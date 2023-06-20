@@ -9,13 +9,13 @@
 
 - AI Voice Assistant with Speech Recognition [AI Voice Assistant](https://github.com/sanjeebtiwary/AI-Voice-Assistant)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/saiyam-gupta-4130131b3/](https://www.linkedin.com/in/saiyam-gupta-4130131b3/)
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/saiyam-gupta-4130131b3/)
 
 - 💬 Ask me about **data engineer and software engineer**
 
 - 📫 How to reach me **saiyamgupta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bcFFMnV7k0jkNJTCgHuKDpP8Lb0NgSkj/view?usp=sharing](https://drive.google.com/file/d/1bcFFMnV7k0jkNJTCgHuKDpP8Lb0NgSkj/view?usp=sharing)
+- 📄 Know about my experiences [Profile](https://drive.google.com/file/d/1bcFFMnV7k0jkNJTCgHuKDpP8Lb0NgSkj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
